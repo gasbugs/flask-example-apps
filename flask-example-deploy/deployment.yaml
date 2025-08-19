@@ -19,5 +19,5 @@ spec:
     spec:
       containers:
       - image: yourdomain.com/admin/flask-example
-      # - image: gasbugs21c/my-flask-app
+        # - image: gasbugs21c/my-flask-app
         name: flask-example
